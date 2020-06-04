@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.flxapps" name="FLX Apps" provider-name="www.flx-apps.com" version="1.0.0">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+    <extension point="xbmc.addon.repository">
+        <info>https://flxapps.github.io/flxapps.kodi-repository/addons.xml</info>
+        <checksum>https://flxapps.github.io/flxapps.kodi-repository/addons.xml.md5</checksum>
+        <datadir>https://flxapps.github.io/flxapps.kodi-repository/</datadir>
+    </extension>
+</addon>
