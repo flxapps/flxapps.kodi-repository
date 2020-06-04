@@ -4,8 +4,8 @@
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
     <extension point="xbmc.addon.repository">
-        <info>https://flxapps.github.io/flxapps.kodi-repository/addons.xml</info>
-        <checksum>https://flxapps.github.io/flxapps.kodi-repository/addons.xml.md5</checksum>
-        <datadir>https://flxapps.github.io/flxapps.kodi-repository/</datadir>
+        <info>https://raw.githubusercontent.com/flxapps/flxapps.kodi-repository/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/flxapps/flxapps.kodi-repository/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/flxapps/flxapps.kodi-repository/master/</datadir>
     </extension>
 </addon>
